@@ -1,2 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.x{
+    position: relative;
+    width: 99%;
+    margin: 0 ;
+}
+.x img {
+    width: 100%;
+}
+.vaise{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: end;
+}
+.vam{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: end;
+}
+.vaccin{
+    position: absolute;
+    top: 55%;
+    width: 100;
+    margin: 1px 1250px;
+    border-radius: 5px;
+    background: orangered;
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 5px 20px;
+}
 
     
