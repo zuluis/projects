@@ -6,7 +6,7 @@
 .x{
     position: relative;
     width: 99%;
-    margin: 0 ;
+    /* margin: 40px 40px 40px 40px; */
 }
 .x img {
     width: 100%;
@@ -14,26 +14,93 @@
 .vaise{
     position: absolute;
     top: 30%;
-    width: 100%;
+    width: 80%;
     text-align: end;
 }
 .vam{
     position: absolute;
     top: 40%;
-    width: 100%;
+    width: 80%;
     text-align: end;
 }
 .vaccin{
     position: absolute;
     top: 55%;
-    width: 100;
-    margin: 1px 1250px;
+    width: 10%;
+    margin: 1px 930px;
     border-radius: 5px;
     background: orangered;
     color: white;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 700;
     padding: 5px 20px;
 }
+.nut{
+    position: absolute;
+    top: 45%;
+    width: 70%;
+    text-align: end;
+    font-size: 40px;
+}
+.nature{
+    position: absolute;
+    top: 60%;
+    width: 30%;
+    margin: 1px 700px;
+
+}
+.net{
+    position: relative;
+    width: 98%;
+}
+.net img{
+    width: 40%;
+}
+ ul{
+    position: absolute;
+    top: 70%;
+    width: 70%;
+   text-align: start;
+   margin: 10px 700px;  
+}
+.zar{
+display: flex;
+gap: 200px; 
+margin: 30px;
+}
+.zune{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+} 
+.bar {
+    position: relative;
+    width: 80%;
+    left: 5%;
+    bottom: 10%;
+    background-image: url("../new-year-new-me/images/watch.png");
+}
+.bar img{
+    width: 90%;
+}
+.ban{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    color: white;
+}
+
+ .bon{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
 
     
