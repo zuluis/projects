@@ -6,7 +6,6 @@
 .x{
     position: relative;
     width: 99%;
-    /* margin: 40px 40px 40px 40px; */
 }
 .x img {
     width: 100%;
@@ -100,7 +99,53 @@ margin: 30px;
     color: black;
     font-size: 20px;
     padding: 5px 10px;
+ }
+ .ten{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    background-color: black;
+    color: white;
+    width: 99%;
+    margin-top: 100px;
+    padding: 100px 100px 100px;
+  
+ }
+ .oil input [type="text"] {
+    display: block;
+    margin-top: 25px;
+    padding: 18px 35px;
+    color: black;
+    background: black;
+ }
+.pan{
+    margin: 10px;
 }
+.pon{
+    margin-bottom: 10px;
+}
+.put{
+    margin-bottom: 10px;
+}
+.peg{
+    margin-bottom: 10px;
+}
+ .column{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0 300px;
+ }
+ .oil , .oly{
+    margin-bottom: 20px;
+    border-radius: 5px;
+ }
+
+
+
+   
+
+
 
 
     
